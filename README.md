@@ -125,7 +125,7 @@
 > reason for choosing the SVM is that it seems to work best for most
 > classification problems.
 
-## ![](vertopal_668374704e0a4eef97d18d41de12570d/media/image4.png){width="7.611111111111111in" height="4.215277777777778in"}![](vertopal_668374704e0a4eef97d18d41de12570d/media/image5.png){width="7.611111111111111in" height="4.215277777777778in"}![](vertopal_668374704e0a4eef97d18d41de12570d/media/image6.png){width="7.611111111111111in" height="4.215277777777778in"}![](vertopal_668374704e0a4eef97d18d41de12570d/media/image7.png){width="7.611111111111111in" height="4.215277777777778in"}![](vertopal_668374704e0a4eef97d18d41de12570d/media/image8.png){width="7.611111111111111in" height="4.215277777777778in"}![](vertopal_668374704e0a4eef97d18d41de12570d/media/image9.png){width="7.611111111111111in" height="4.215277777777778in"}2.1.1 Block diagram
+## ![](https://raw.githubusercontent.com/Hemanth8448/spam-detection-using-SVM/main/images/image1.png)
 
 ## 2.1.2 Load Data set
 
@@ -140,10 +140,9 @@
 > and a label indicating whether the email is spam or not (ham).at
 > initially the data set contains the 5572 rows × 2 columns.
 
-![](vertopal_668374704e0a4eef97d18d41de12570d/media/image16.png){width="6.037631233595801in"
-height="3.1764577865266843in"}
+![](https://raw.githubusercontent.com/Hemanth8448/spam-detection-using-SVM/main/images/image2.png)
 
-**Figure 2.2 Data set**
+
 
 ## 2.1.3 Pre-processing phase
 
@@ -164,9 +163,7 @@ height="3.1764577865266843in"}
 > Out of the 5169 data samples, the data set contains 86.6% ham messages
 > and 13.4% spam messages.
 
-![](vertopal_668374704e0a4eef97d18d41de12570d/media/image17.jpeg){width="4.658333333333333in"
-height="3.561111111111111in"}
-
+![](https://raw.githubusercontent.com/Hemanth8448/spam-detection-using-SVM/main/images/image3.png)
 **Figure 2.3 pie chart for the data set**
 
 > After removing duplicate data items, 5169 rows × 2 columns are in the
